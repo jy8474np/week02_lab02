@@ -1,3 +1,10 @@
+# In the slides/lecture, you created the main method after several chunks of code.
+# I placed the entirety of my code inside the main method.
+# Questions:
+# 1. Why wouldn't one want all of their code within the main method?
+# 2. What's the difference?
+# 3. Is one way much preferred to the other?
+
 from dataclasses import dataclass # Import dataclass
 
 def main():
